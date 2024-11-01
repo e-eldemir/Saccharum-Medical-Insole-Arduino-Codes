@@ -1,4 +1,4 @@
-# Saccharum-Medical-Insole-Arduino-Codes
+# Saccharum-Medical-Insoles-Arduino-Codes
 This project is a smart insole designed to help individuals with diabetes prevent foot ulcers and improve blood circulation. Initially designed as a diabetic sock, the final version uses a flexible insole with embedded sensors and a TENS (Transcutaneous Electrical Nerve Stimulation) system. Key features include:
 
 Temperature Monitoring: Six NTC sensors placed at high-risk pressure points (heel and metatarsal areas) monitor temperature variations to detect early signs of ulcers. A Wemos D1 Mini microcontroller with Wi-Fi and Deep Sleep functionality manages the sensors for power efficiency, while a multiplexer connects them.
